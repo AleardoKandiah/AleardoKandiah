@@ -1,13 +1,13 @@
 # 💫About Me :
 👋Nice to meet you! 
 
-💝I am a UK-based software engineer who’s passionate about developing great & meaningful digital products.
+😎I am a UK-based software engineer who’s passionate about developing great & meaningful digital products.
 
 🔨Currently busy building Full-Stack web applications and Open source contributing😍
 
-😎I love to cycle🚵‍♂️ and run🏃‍♂️, I also enjoy camping ⛺!
+💝I love to cycle🚵‍♂️ and run🏃‍♂️, I also enjoy camping ⛺!
 
-🐱‍🏍Travelling and exploration are in my soul, last visited: Alvor, Portugal 🏖✔
+✈Travelling and exploring are my jam, last visited: Alvor, Portugal 🏖✔
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Akandimo) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aleardo-kandiah-504959195/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/WwWorg) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19399155/aleardo-kandiah) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Aleardo21) 
