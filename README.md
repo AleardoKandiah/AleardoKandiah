@@ -5,7 +5,6 @@
 
 🔨Currently busy building Full-Stack web applications and Open source contributing😍
 
-💝I love to cycle🚵‍♂️ and run🏃‍♂️, I also enjoy camping ⛺!
 
 ✈Travelling and exploring are my jam, last visited: Alvor, Portugal 🏖✔
 
